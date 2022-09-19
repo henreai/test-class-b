@@ -1,0 +1,4 @@
+win server2008 无密码
+CentOS7 密码：123456
+win Server2012 密码：123456
+Red Hat Enterprise Linux 账户：admin   密码：admin
